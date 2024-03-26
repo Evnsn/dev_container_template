@@ -1,9 +1,9 @@
 # dev_container_template
-
 ...
 
 ## Todo:
-- Add VS code extension
+- [x] Add VS code extension
+- [ ] Add GiT functionallity
 
 ## Resources:
 ### Youtube:
