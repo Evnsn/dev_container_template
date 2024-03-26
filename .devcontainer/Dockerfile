@@ -1,6 +1,8 @@
 # Use an official Python runtime as the base image
 FROM python:3.9-slim
 
+RUN apt-get update
+
 # Copy requirements.txt from build context first 
 COPY requirements.txt .
 
